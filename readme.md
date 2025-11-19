@@ -52,10 +52,6 @@ export GOOGLE_GENAI_USE_VERTEXAI="True"
 **[Yash](https://github.com/YasKam24)**
 
 
-🌟 AURA — Augmented Utilities and Response Agent
-
-# AURA: Augmented Utilities and Response Agent
-
   Multimodal AI Assistant for Technical document understanding
 
   AURA is a multimodal, retrieval-augmented assistant that helps engineers, technicians, and operators extract information from large technical manuals, scanned documents, product catalogs, and online sources. It combines RAG, MCP, LLMs, vision models, and a modular multi-service backend to produce fast, accurate, context-aware responses.
